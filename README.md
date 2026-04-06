@@ -1,5 +1,7 @@
 # PlantUML Previewer
 
+![screenshot](./screenshot.png)
+
 A simple split-view PlantUML editor and previewer built with PySide6.
 
 ## Features
